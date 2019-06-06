@@ -1,5 +1,5 @@
 # m2i-jour1
 
 # Présentation du projet
+Autre information
 
-# Ajout sur le serveur
